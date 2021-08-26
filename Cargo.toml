@@ -1,0 +1,14 @@
+[package]
+name = "partial-frame-utils"
+version = "0.1.0"
+authors = ["Jung-Kwang Lee <ntoskrnl7@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+log = "0.4.14"
+
+tar = "0.4.35"
+flate2 = "1.0.20"
+
+image = "0.23.14"
+imageproc = "0.22.0"
